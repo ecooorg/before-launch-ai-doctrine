@@ -1,17 +1,17 @@
 # BEFORE LAUNCH
 ## A Design-Stage Systems Engineering Doctrine for Autonomous Artificial Intelligence
 
-**Author:** Volodymyr Kotegov  
-**Publication date:** 27 September 2026  
-**Length:** 162 pages  
-**License:** CC BY 4.0  
-**DOI:** https://doi.org/10.5281/zenodo.22994978
+Author: Volodymyr Kotegov  
+Publication date: 27 September 2026  
+Length: 162 pages  
+License: CC BY 4.0  
+DOI: https://doi.org/10.5281/zenodo.22994978
 
 ### Read the doctrine
-- **Read online:** [GitHub Pages](https://ecooorg.github.io/before-launch-ai-doctrine/)
-- **Download PDF:** `BEFORE_LAUNCH.pdf`
-- **Permanent DOI:** https://doi.org/10.5281/zenodo.22994978
-- **Discuss / Critique:** https://github.com/ecooorg/before-launch-ai-doctrine/discussions
+- Read online: https://ecooorg.github.io/before-launch-ai-doctrine/
+- Download PDF: BEFORE_LAUNCH.pdf
+- Permanent DOI: https://doi.org/10.5281/zenodo.22994978
+- Discuss / Critique: https://github.com/ecooorg/before-launch-ai-doctrine/discussions
 
 ---
 
@@ -20,7 +20,7 @@ BEFORE LAUNCH is a design-stage systems engineering doctrine for autonomous arti
 It is intended to structure how an autonomous AI system should be specified, decomposed, evaluated, independently reviewed, qualified, and authorized before operational deployment.
 
 The doctrine explicitly distinguishes:
-DESIGN CLOSURE ≠ EVIDENCE CLOSURE ≠ QUALIFICATION CLOSURE ≠ AUTHORIZATION
+DESIGN CLOSURE != EVIDENCE CLOSURE != QUALIFICATION CLOSURE != AUTHORIZATION
 
 and proposes the progression:
 DESIGN SPECIFICATION -> IMPLEMENTATION -> EXPERIMENTATION -> INDEPENDENT EVALUATION -> QUALIFICATION -> AUTHORIZATION -> OPERATION
