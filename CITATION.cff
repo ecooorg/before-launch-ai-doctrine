@@ -4,7 +4,9 @@ type: report
 authors:
   - family-names: Kotegov
     given-names: Volodymyr
-title: "BEFORE LAUNCH: A Design-Stage Systems Engineering Doctrine for AI"
+title: >
+  BEFORE LAUNCH: A Design-Stage Systems Engineering 
+  Doctrine for Autonomous Artificial Intelligence
 version: 1.0.0
 date-released: 2026-09-27
 url: "https://github.com/ecooorg/before-launch-ai-doctrine"
