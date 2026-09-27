@@ -30,8 +30,8 @@ BEFORE LAUNCH is a design-stage systems engineering doctrine for autonomous arti
 
 ### Citation
 
-  url = {https://doi.org/10.5281/zenodo.22994978}
-}
+  https://doi.org/10.5281/zenodo.22994978
+
 
 ### License
 CC BY 4.0
