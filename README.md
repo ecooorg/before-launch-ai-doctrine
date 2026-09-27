@@ -9,8 +9,6 @@ DOI: https://doi.org/10.5281/zenodo.22994978
 
 ### Read the doctrine
 - Read online: https://ecooorg.github.io/before-launch-ai-doctrine/
-- Download PDF: BEFORE_LAUNCH.pdf
-- Permanent DOI: https://doi.org/10.5281/zenodo.22994978
 - Discuss / Critique: https://github.com/ecooorg/before-launch-ai-doctrine/discussions
 
 ---
@@ -28,9 +26,6 @@ BEFORE LAUNCH is a design-stage systems engineering doctrine for autonomous arti
 - Experimental Qualification Program
 - Doctrine-Level Assurance Integration
 
-### Citation
-
-  https://doi.org/10.5281/zenodo.22994978
 
 
 ### License
