@@ -8,7 +8,7 @@
 **DOI:** https://doi.org/10.5281/zenodo.22994978
 
 ### Read the doctrine
-- **Read online:** [GitHub Pages](https://ecooorg.github.io/before-launch-ai-doctrine/) *(активируем на следующем шаге)*
+- **Read online:** [GitHub Pages](https://ecooorg.github.io/before-launch-ai-doctrine/)
 - **Download PDF:** [`BEFORE_LAUNCH.pdf`](BEFORE_LAUNCH.pdf)
 - **Permanent DOI:** [10.5281/zenodo.22994978](https://doi.org/10.5281/zenodo.22994978)
 - **Discuss / Critique:** [GitHub Discussions](https://github.com/ecooorg/before-launch-ai-doctrine/discussions)
