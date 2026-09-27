@@ -9,6 +9,7 @@ DOI: https://doi.org/10.5281/zenodo.22994978
 
 ### Read the doctrine
 - Read online: https://ecooorg.github.io/before-launch-ai-doctrine/
+- Download PDF: [BEFORE_LAUNCH.pdf](https://github.com/ecooorg/before-launch-ai-doctrine/raw/main/BEFORE_LAUNCH.pdf)
 - Discuss / Critique: https://github.com/ecooorg/before-launch-ai-doctrine/discussions
 
 ---
