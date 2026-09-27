@@ -1,14 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this work, cite it as below."
-type: report
+message: "If you use this work, please cite it as below."
 authors:
-  - family-names: Kotegov
-    given-names: Volodymyr
-title: >
-  BEFORE LAUNCH: A Design-Stage Systems Engineering 
-  Doctrine for Autonomous Artificial Intelligence
+  - family-names: "Kotegov"
+    given-names: "Volodymyr"
+title: "BEFORE LAUNCH: A Design-Stage Systems Engineering Doctrine"
 version: 1.0.0
 date-released: 2026-09-27
 url: "https://github.com/ecooorg/before-launch-ai-doctrine"
 doi: "10.5281/zenodo.22994978"
-license: CC-BY-4.0
+license: "CC-BY-4.0"
