@@ -29,11 +29,7 @@ BEFORE LAUNCH is a design-stage systems engineering doctrine for autonomous arti
 - Doctrine-Level Assurance Integration
 
 ### Citation
-@report{kotegov2026beforelaunch,
-  author = {Volodymyr Kotegov},
-  title = {BEFORE LAUNCH: A Design-Stage Systems Engineering Doctrine for Autonomous Artificial Intelligence},
-  year = {2026},
-  doi = {10.5281/zenodo.22994978},
+
   url = {https://doi.org/10.5281/zenodo.22994978}
 }
 
